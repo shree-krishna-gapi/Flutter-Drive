@@ -1,0 +1,4 @@
+all parent menu are dynamically shown by api
+child are get api by parent id
+i do not included modal class deu to privacy reason.
+
